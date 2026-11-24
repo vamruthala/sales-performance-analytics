@@ -7,6 +7,18 @@ Sales increased from **$574.43K** in 2021 to **$729.42K** in 2022, or approximat
 
 ![Sales performance dashboard](assets/dashboard-overview.png)
 
+## Selected report visuals
+
+![Sales growth from 2021 to 2022](assets/sales-growth-2021-2022.png)
+
+![Regional sales for 2022](assets/regional-sales-2022.png)
+
+![Top customers by 2022 sales](assets/top-customers-2022.png)
+
+![Top products by 2022 sales](assets/top-products-2022.png)
+
+![Product category mix for 2022](assets/product-category-mix-2022.png)
+
 ## Business question and pipeline
 How did sales change in 2022, and which customers, products, categories, and regions contributed most?
 
