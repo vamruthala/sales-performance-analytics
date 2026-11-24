@@ -1,8 +1,6 @@
 # Functional Requirements Summary
 
-*Report-based summary of dashboard outputs.*
-
-- Display year totals and YoY growth using reported sales value.
-- Rank top customers and products; compare regional and category sales contribution.
-- Support the report-described hover detail and customer/region filters.
-- Validate all visuals against the matching order workbook before operational use; no forecasting model is reported.
+- I display yearly sales totals and year-over-year growth.
+- I rank leading customers and products and compare regional and category sales.
+- I use dashboard filters and hover details to explore customer and regional contribution.
+- I use descriptive measures; I do not present this dashboard as a forecasting model.
