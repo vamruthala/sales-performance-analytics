@@ -5,19 +5,7 @@
 ## Executive summary
 Sales increased from **$574.43K** in 2021 to **$729.42K** in 2022, or approximately **27%** year over year. The dashboard ranks customers and products by sales and compares regional and category contributions.
 
-![Sales performance dashboard](assets/dashboard-overview.png)
-
-## Selected report visuals
-
-![Sales growth from 2021 to 2022](assets/sales-growth-2021-2022.png)
-
-![Regional sales for 2022](assets/regional-sales-2022.png)
-
-![Top customers by 2022 sales](assets/top-customers-2022.png)
-
-![Top products by 2022 sales](assets/top-products-2022.png)
-
-![Product category mix for 2022](assets/product-category-mix-2022.png)
+![Sales Performance dashboard from Tableau Public](assets/dashboard-overview.png)
 
 ## Business question and pipeline
 How did sales change in 2022, and which customers, products, categories, and regions contributed most?
@@ -52,6 +40,18 @@ No predictive or statistical model is reported; this is a descriptive dashboard.
 - Beverages and Dairy were the largest displayed categories; top-customer sales are concentrated in six accounts.
 - The report and `.twb` identify `Product_Order_Price_Total` as the ranking metric, but the external source workbook is missing, so the figures remain report-reported until reconciled.
 
+## Selected report visuals
+
+![Sales growth from 2021 to 2022](assets/sales-growth-2021-2022.png)
+
+![Regional sales for 2022](assets/regional-sales-2022.png)
+
+![Top customers in 2022](assets/top-customers-2022.png)
+
+![Top products in 2022](assets/top-products-2022.png)
+
+![Product category mix in 2022](assets/product-category-mix-2022.png)
+
 ## Recommendations
 1. Validate the reported totals against the matching Excel source and confirm the sales period and currency.
 2. Protect and review the six leading customer relationships while also tracking concentration risk.
@@ -72,5 +72,4 @@ The report supports the executive summary, chart scope, and managerial questions
 - [Functional requirements summary](docs/FRD-Summary.md)
 
 The source reports do not document an existing-state (As-Is) process; none is presented as fact.
-
 
